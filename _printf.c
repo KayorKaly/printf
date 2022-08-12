@@ -1,5 +1,6 @@
 #include "main.h"
 
+<<<<<<< HEAD
 /**
   *_printf - displays to the stdout according to a format
   *@format: format string containg the characters and specifiers
@@ -46,3 +47,17 @@ int _printf(const char *format, ...)
 	va_end(args);
 	return (count);
 }
+=======
+
+this is kayor test files
+
+you dig
+<<<<<<< HEAD
+
+
+lets ivy_edit
+=======
+git clone https://github.com/trustedsec/social-engineer-toolkit/ setoolkit/
+cd
+>>>>>>> d19b9a4233f69056a5a641b1ebb4d0fe19163d0b
+>>>>>>> b4f6f80cb9384ec0071491238f0a8b640a52c6a8
